@@ -1,0 +1,10 @@
+
+# Don't try to upload the images of cars
+vehicle-image-recognition/CarImages/*
+
+# pthon stuff
+.ipynb_checkpoints
+
+# Mac crap
+.DS_Store
+*.swp
